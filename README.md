@@ -32,7 +32,7 @@
   ## Usage
 
   Use this application through the terminal.
-  chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/b546bf1f-1b5b-4991-yd12-b4ea6ab32846
+  https://drive.google.com/file/d/1KaYCXNeO4ZEmnsYChfwvYY3WL9R-r_S5/view
 
   ## Contributing
 
